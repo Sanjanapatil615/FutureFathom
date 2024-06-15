@@ -1,13 +1,13 @@
 # FutureFathom
 Explore the latest tech trends with FutureFathom! AI, cybersecurity, software dev, and more. Contribute and stay informed! 🚀
 
-Description:
+# Description:
 
 Welcome to FutureFathom Tech Blog's GitHub repository! 🚀
 
 FutureFathom is your ultimate destination for staying updated on the latest trends, innovations, and breakthroughs in the ever-evolving world of technology. Our blog covers a wide array of topics including artificial intelligence, machine learning, cybersecurity, blockchain, software development, gadgets, and much more.
 
-What We Offer:
+# What We Offer:
 
 🌟 Insightful Articles: Explore our collection of insightful articles written by industry experts and tech enthusiasts, offering in-depth analysis, tutorials, and discussions on cutting-edge technologies.
 
@@ -25,7 +25,8 @@ What We Offer:
 
 🔧 Open Source Contributions: We encourage contributions from the community! Feel free to contribute articles, suggest improvements, or report issues.
 
-How to Contribute:
+
+# How to Contribute:
 
 🌐 Found a typo? Want to improve an article? Pull requests are welcome!
 
